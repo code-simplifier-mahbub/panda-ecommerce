@@ -1,0 +1,11 @@
+.bg-custom-color{
+    background-color: #fceae8;
+}
+.btn-custom-color{
+    background: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    padding: 8px 25px;
+}
+.gutter-section-image{
+    width: 100px;
+}
